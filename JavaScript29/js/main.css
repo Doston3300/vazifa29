@@ -1,0 +1,41 @@
+.container {
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+.btn {}
+
+.title_text {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.main {
+    display: block;
+    position: relative;
+}
+
+.card {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.menu__bag {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+    top: -170px;
+    background-color: brown;
+    display: none;
+}
+
+.extra {
+    display: block;
+}
+
+.cml {
+    display: none;
+}
